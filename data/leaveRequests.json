@@ -1,0 +1,64 @@
+[
+  {
+    "id": 3,
+    "employeeName": "prem",
+    "startDate": "2025-09-11",
+    "endDate": "2025-09-04",
+    "reason": "leave",
+    "status": "Approved"
+  },
+  {
+    "id": 4,
+    "employeeName": "prem",
+    "startDate": "2025-09-04",
+    "endDate": "2025-09-11",
+    "reason": "leave",
+    "status": "Pending"
+  },
+  {
+    "id": 5,
+    "employeeName": "garv ",
+    "startDate": "2025-09-02",
+    "endDate": "2025-09-22",
+    "reason": "leave",
+    "status": "Approved"
+  },
+  {
+    "id": 6,
+    "employeeName": "Garv Sharma",
+    "startDate": "2025-09-10",
+    "endDate": "2025-10-01",
+    "reason": "leave",
+    "duration": 22,
+    "status": "Approved"
+  },
+  {
+    "id": 7,
+    "employeeName": "Garv Sharma",
+    "startDate": "2025-09-22",
+    "endDate": "2025-09-23",
+    "reason": "leave",
+    "duration": 2,
+    "status": "Approved"
+  },
+  {
+    "id": 8,
+    "employeeName": "garv",
+    "startDate": "2025-10-02",
+    "endDate": "2025-10-02",
+    "reason": "i am sick",
+    "leaveType": "Sick",
+    "duration": 1,
+    "status": "Approved"
+  },
+  {
+    "id": 9,
+    "employeeName": "garv",
+    "startDate": "2025-10-03",
+    "endDate": "2025-10-03",
+    "reason": "i am on vacation",
+    "leaveType": "Vacation",
+    "duration": 1,
+    "status": "Approved"
+  }
+]

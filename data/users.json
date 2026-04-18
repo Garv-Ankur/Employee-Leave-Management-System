@@ -1,0 +1,25 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "fullName": "garv",
+      "username": "garv",
+      "password": "1234",
+      "leaveBalance": 20
+    },
+    {
+      "id": 2,
+      "fullName": "sairaj",
+      "username": "sairaj",
+      "password": "1234",
+      "leaveBalance": 20
+    }
+  ],
+  "hr": [
+    {
+      "id": 1,
+      "username": "prem",
+      "password": "1234"
+    }
+  ]
+}

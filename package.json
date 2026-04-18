@@ -1,0 +1,15 @@
+{
+  "name": "employee-leave-management-mongodb",
+  "version": "1.0.0",
+  "description": "An employee leave management system with Node.js, Express, and MongoDB.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "migrate": "node migrate.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.6.1",
+    "express": "^4.18.2",
+    "mongoose": "^8.19.0"
+  }
+}
